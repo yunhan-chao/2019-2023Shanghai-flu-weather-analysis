@@ -1,0 +1,19 @@
+# RStudio
+.Rproj.user/
+
+# R session
+.Rhistory
+.RData
+.Ruserdata
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Temporary files
+*.tmp
+
+# R check
+*.Rcheck/
